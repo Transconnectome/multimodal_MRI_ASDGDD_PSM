@@ -1,7 +1,10 @@
-# Data
+# Data (except included atlases)
 data/
+!data/atlases/
+!data/atlases/**
 *.nii
 *.nii.gz
+!data/atlases/*.nii.gz
 *.npy
 *.csv
 *.xlsx
