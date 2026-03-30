@@ -1,0 +1,16 @@
+torch>=1.12
+torchvision>=0.13
+monai>=1.0
+numpy>=1.21
+pandas>=1.4
+scipy>=1.8
+scikit-learn>=1.1
+nibabel>=4.0
+matplotlib>=3.5
+seaborn>=0.12
+captum>=0.6
+psmpy>=0.3
+dcor>=0.6
+umap-learn>=0.5
+wandb>=0.13
+tqdm

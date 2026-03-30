@@ -1,0 +1,6 @@
+{
+    "nt_samples": 5,
+    "nt_samples_batch_size": 1,
+    "nt_type": "smoothgrad",
+    "stdevs": 0.05
+}
